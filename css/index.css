@@ -1,7 +1,31 @@
-body {
-    background-color:rgb(155, 155, 209)
+header {
+    font-family: sans-serif
+}   
+body { 
+margin:20px 80px 20px 80px;
 }
 
-h1 {
-    color:#0F0;
+    
+
+    p {
+ color:rgb(147, 111, 98);     
+font-size: 12px;
+font-weight: bold    
 }
+
+.try-our {
+    position: relative;
+left: 1030px;
+bottom: 16px;
+}
+.menu {
+    position: relative;
+    left: 500px;
+    
+}
+    p {
+ color:rgb(147, 111, 98);     
+font-size: 12px;
+font-weight: bold  
+    }
+
