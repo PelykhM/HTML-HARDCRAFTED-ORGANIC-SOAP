@@ -1,5 +1,6 @@
 header {
     font-family: sans-serif
+    background  () 
 }   
 body { 
 margin:20px 80px 20px 80px;
@@ -27,5 +28,8 @@ bottom: 16px;
  color:rgb(147, 111, 98);     
 font-size: 12px;
 font-weight: bold  
-    }
-
+}
+.fone-foto {
+    background-image:url(img/div-class-banner.webp);
+    
+}
