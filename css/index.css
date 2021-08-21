@@ -1,14 +1,59 @@
-header {
-    font-family: sans-serif
-    background  () 
-}   
-body { 
-margin:20px 80px 20px 80px;
+
+.header {
+    font-family: sans-serif;
+     background:image url(img/div-class-banner.webp)
+    
 }
 
-    
 
-    p {
+
+.body { background-image: url(img/div-class-banner.webp); 
+}
+
+
+    .facebook {
+      background-color: antiquewhite;
+        border-radius: 50%;
+   position: relative;
+   left: 1060px;
+bottom: 50px
+    }
+
+    .instagram {
+        border-radius: 50%;
+        position: relative;
+        left:1065px;
+        bottom: 50px;
+
+    }
+    
+    .youtube {
+        border-radius: 50%;
+        position: relative;
+        left:1070px;
+        bottom: 50px;
+    }
+
+
+ .text-above-title {
+    font-size: 15px;
+    position: relative;
+    top:190px; 
+    color:  #ebbaa9;
+}
+    
+.title {
+    font-size: 70px;
+    position: relative;
+    top:140px;
+}
+.text-below-title{
+    font-size: 18px;
+    position: relative;
+    top: 5px;
+
+}
+    .p {
  color:rgb(147, 111, 98);     
 font-size: 12px;
 font-weight: bold    
@@ -22,14 +67,42 @@ bottom: 20px;
 .menu {
     position: relative;
     left: 500px;
+    bottom:30px;
     
 }
-    p {
+    .p {
  color:rgb(147, 111, 98);     
 font-size: 12px;
 font-weight: bold  
 }
-.fone-foto {
-    background-image:url(img/div-class-banner.webp);
-    
+
+.about-us-info {
+    position: relative;
+left: 600px;
+bottom: 30px;
+
+    font-size: 50px;
+font-weight: bold;
+
 }
+
+
+
+ .Our-organic {
+    position: relative;
+    left: 500px; 
+   bottom: 100px;
+ }
+
+ .natural {
+     font-size:30px;
+    position: relative;
+    left: 700px; 
+ }
+    .text-title-other-color {
+        color:#ebbaa9;
+        font-size:50px;
+        position: relative;
+        left: 270px;
+        top: 32px
+    }
