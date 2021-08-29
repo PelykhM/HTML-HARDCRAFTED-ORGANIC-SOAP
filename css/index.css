@@ -1,12 +1,12 @@
-.content {
-    background-color: antiquewhite;
-    margin-top:10px;
+.main {
+    margin: 50px;
+    
     
 }
 
 .header {
     font-family: sans-serif;
-     background:image url(img/div-class-banner.webp)
+     background:image url("img/div-class-banner.webp")
     
 }
 
@@ -16,18 +16,18 @@
 
 
 
-    .facebook {
+.facebook {
       background-color: antiquewhite;
         border-radius: 50%;
    position: relative;
-   left: 1060px;
+   left: 550px;
 bottom: 50px
     }
 
     .instagram {
         border-radius: 50%;
         position: relative;
-        left:1065px;
+        left:555px;
         bottom: 50px;
 
     }
@@ -35,7 +35,7 @@ bottom: 50px
     .youtube {
         border-radius: 50%;
         position: relative;
-        left:1070px;
+        left:560px;
         bottom: 50px;
     }
 
@@ -146,4 +146,24 @@ top :185px
     font-size:20px;
     color: rgb(180,167,158);
 
+    }
+
+    .Shop {
+        position: relative;
+        left:650px;
+        font-size:11px;
+        color: #ebbaa9;
+
+    }
+
+    .branch {
+        position: relative;
+        top:50px;
+        right:10px ;
+    }
+    .text-below-shop {
+        position: relative;
+        right: 200px;
+        font-size:40px;
+        color: black;
     }
